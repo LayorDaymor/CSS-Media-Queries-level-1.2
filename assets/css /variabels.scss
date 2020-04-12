@@ -1,0 +1,19 @@
+%m-p{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+$header-color: skyblue;
+$aside-color:rebeccapurple;
+$footer-color:cyan;
+$article1-color:green;
+$article2-color:orange;
+$article3-color:lightcoral;
+$article4-color:lightgreen;
+
+
+%displayFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
